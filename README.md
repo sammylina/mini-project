@@ -1,16 +1,18 @@
 
 # Sentiment Analysis ML Pipeline
 
+NOTE: I LOVE VIBE CODING, AND I USED IT OBVIOUSLY!!
+
 This project demonstrates a basic machine learning pipeline for sentiment analysis on text data using scikit-learn.
 
 ## How to Install Dependencies
 
-First, ensure you have Python 5 installed. Then, create a virtual environment and install the required packages.
+First, ensure you have Python 3 installed. Then, create a virtual environment and install the required packages.
 
 ```bash
 # Create and activate a virtual environment (optional but recommended)
 python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate  
 
 # Install dependencies
 pip install -r requirements.txt
